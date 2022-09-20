@@ -1,0 +1,15 @@
+{
+  "name": "demotoolsqa_page_pagefactory",
+  "version": "1.0.0",
+  "description": "Llenando formulario con Selenium y cucumber",
+  "main": "index.js",
+  "scripts": {
+    "report": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dídier Javier Ramírez Henao",
+  "license": "ISC",
+  "devDependencies": {
+    "multiple-cucumber-html-reporter": "^2.0.0"
+  }
+}
